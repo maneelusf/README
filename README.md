@@ -18,7 +18,7 @@ I'm Maneel, a passionate **Data Scientist** with a keen interest in **Causal Inf
 ## Get in Touch
 
 - 📫 You can reach me via email at [maneel1995@gmail.com].
-- 💼 Let's connect on [LinkedIn](Your LinkedIn Profile URL) for professional networking and collaboration opportunities.
+- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/maneel-reddy/) for professional networking and collaboration opportunities.
 
 ## My Toolbox
 
